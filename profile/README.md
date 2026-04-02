@@ -1,58 +1,44 @@
-# K Mentorship Hub
+# K Mentorship Hub · SET Learning and Build System
 
-Open-Source Learning, Build, and Navigation Hub by Oksana Kolisnyk
+**A structured guidance layer for turning interests into learning paths, MVPs, and real next steps**
 
-**Continuous Learning, Continuous Integration.**
+[![Org](https://img.shields.io/badge/GitHub-K--Mentorship--Hub-black)](https://github.com/K-Mentorship-Hub)
+[![Sphere I](https://img.shields.io/badge/Sphere%20I-Science-2d6cdf)](https://github.com/K-Mentorship-Hub/SPHERE-I-SCIENCE)
+[![Sphere II](https://img.shields.io/badge/Sphere%20II-Entrepreneurship-f08c2e)](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP)
+[![Sphere III](https://img.shields.io/badge/Sphere%20III-Technology-2f9e44)](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY)
+[![Stack](https://img.shields.io/badge/stack-Notion%20%2B%20Discord%20%2B%20GitHub-purple)](#recommended-stack)
 
-`K Mentorship Hub` is the practical part of the wider `SET` ecosystem.
+*Find the direction. Learn the path. Build the next step.*
 
-It helps people:
-
-- learn through guided paths
-- build practical MVPs and public cases
-- connect across science, entrepreneurship, and technology
-- move from confusion to a clear next step
-
----
-
-## Three Orientation Spheres
-
-```text
-K Mentorship Hub
-│
-├── 🔬 SCIENCE            — domains, systems, measurable questions, research-facing logic
-├── 🚀 ENTREPRENEURSHIP   — ventures, products, validation, growth, founder decisions
-└── 💻 TECHNOLOGY         — tools, code, AI, data, infrastructure, implementation
-```
-
-How this hub is meant to be used:
-
-- learners -> find a direction and practical entry point
-- founders / operators -> frame ideas, validate next steps, and connect with builders
-- contributors -> practice through docs, reproducibility, data, and small public tasks
-- collaborators -> move across spheres without needing to stay in one box forever
+> Designed to reduce confusion for learners, founders, researchers, and early builders who want a practical way to move across science, entrepreneurship, and technology.
 
 ---
 
-## The `SET` Logic
+## What Is K Mentorship Hub?
 
-- `S = Science`
-- `E = Entrepreneurship`
-- `T = Technology`
+`K Mentorship Hub` is the practical guidance layer of the wider `SET` ecosystem by Oksana Kolisnyk.
 
-These are not three separate communities with three separate lives.
+It helps people move across:
 
-They are a navigation system for deciding:
+- `S` · Science
+- `E` · Entrepreneurship
+- `T` · Technology
 
-- what kind of question someone is starting from
-- what kind of documentation or support they need
-- what kind of work they are moving toward next
+The user-facing path stays simple:
 
-The hub supports:
+1. `Orient`
+2. `Learn`
+3. `Build`
+4. `Connect`
 
-- `S`
-- `E`
-- `T`
+The internal structure stays clear:
+
+- domain questions and evidence-facing directions live in `S`
+- founder logic, validation, and opportunity framing live in `E`
+- tools, data, AI, and implementation systems live in `T`
+
+Hybrid work is welcome:
+
 - `S+T`
 - `S+E`
 - `E+T`
@@ -60,66 +46,88 @@ The hub supports:
 
 ---
 
+## What Lives Here
+
+- public guidebook and orientation docs
+- learning-path logic and practical direction maps
+- Discord operating guidance
+- contribution bridges into deeper repos
+- metadata rules for hybrid `SET` work
+- lightweight templates for academy practice and collaboration
+
+---
+
 ## Core Repositories
 
-- [K-Mentorship-Hub](https://github.com/K-Mentorship-Hub/K-Mentorship-Hub)
-- [SPHERE-I-SCIENCE](https://github.com/K-Mentorship-Hub/SPHERE-I-SCIENCE)
-- [SPHERE-II-ENTREPRENEURSHIP](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP)
-- [SPHERE-III-TECHNOLOGY](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY)
-
-What they are for:
-
-- `K-Mentorship-Hub` -> public docs, guidebook, routing, contribution bridge
-- `SPHERE-I-SCIENCE` -> science-first questions, hypotheses, measurable domains, research-facing logic
-- `SPHERE-II-ENTREPRENEURSHIP` -> ventures, founder systems, validation, market logic, and public cases
-- `SPHERE-III-TECHNOLOGY` -> tools, code, AI, dashboards, infrastructure, and reusable systems
+| Repository | Role |
+| --- | --- |
+| [`K-Mentorship-Hub`](https://github.com/K-Mentorship-Hub/K-Mentorship-Hub) | Public front door, guidebook, documentation, routing |
+| [`SPHERE-I-SCIENCE`](https://github.com/K-Mentorship-Hub/SPHERE-I-SCIENCE) | Science-first questions, measurable domains, research-facing framing |
+| [`SPHERE-II-ENTREPRENEURSHIP`](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP) | Venture logic, validation, founder systems, public cases |
+| [`SPHERE-III-TECHNOLOGY`](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY) | Tools, code, AI, dashboards, automation, reusable systems |
 
 ---
 
-## Practical Layers
+## Recommended Stack
 
-`K Mentorship Hub` works best as a layered system:
+This hub is intentionally not built around one bloated platform.
 
-- `GitHub` -> repositories, public docs, contribution surface
-- `Discord` -> live interaction and lightweight routing
-- `Notion` -> guidebook, intake, and operations
-- `Hugging Face` -> demos and runtime interfaces when needed
+It uses a low-friction stack that people can actually maintain:
 
----
-
-## Recommended Contribution Types
-
-Good starting contributions:
-
-- docs
-- reproducibility
-- visualization
-- data notes
-- academy-practice tasks
-- small safe-for-fork improvements
-
-Suggested labels:
-
-- `good first issue`
-- `academy-practice`
-- `docs`
-- `reproducibility`
-- `data`
-- `visualization`
-- `research-review-needed`
-- `safe-for-fork`
-- `SET-S`
-- `SET-E`
-- `SET-T`
+- `Notion` for guidebook, intake, operating notes, and routing
+- `Discord` for live communication and lightweight community energy
+- `GitHub` for structure, docs, templates, issues, and contribution surfaces
+- `Hugging Face` for demo or runtime layers when needed
+- `K-RnD-Lab` for deeper research and open investigation
 
 ---
 
-## External Bridge
+## Fast Start For A New Person
 
-- [K-RnD-Lab](https://github.com/K-RnD-Lab)
-- Hugging Face spaces and demos
-- selected partner communities
+For most people, the right starting bundle is:
 
-You can be part of several communities at once.
+1. one `Guidebook` page
+2. one `Passport` or intake form
+3. one `Discord` entry point
+4. one clear `path` or `MVP` direction
+5. one practical next step
 
-This hub is here to help you move, build, and connect, not isolate you from the rest of the ecosystem.
+Rule:
+
+Do not spread the same truth across too many tools. Use `Notion` as the guidance layer, `Discord` as the live layer, and `GitHub` as the structural layer.
+
+---
+
+## Beginner Promise
+
+This hub is designed so that people do not get buried in complexity on day one.
+
+The minimum rhythm should feel like this:
+
+- choose one direction
+- take one practical step
+- get one useful feedback loop
+- keep moving without getting lost
+
+That is enough to begin.
+
+---
+
+## Related Systems
+
+`K Mentorship Hub` is the practical activation center.
+
+Connected layers:
+
+- `K-RnD-Lab` for research depth, evidence systems, and investigative logic
+- `Notion` for guidebook, intake, and routing
+- `Discord` for live interaction
+
+---
+
+## Source Of Truth
+
+- `GitHub` for structure, versioned docs, templates, and contribution flow
+- `Notion` for guidebook, intake, and operational routing
+- `Discord` for live discussion and lightweight coordination
+- `K-RnD-Lab` for research depth and evidence-facing extensions
