@@ -23,6 +23,8 @@ That creates nine channels before the community is even alive.
 ### Optional private channels
 
 - `#founder-room`
+- `#mvp-circle`
+- `#talent-cards`
 - `#k-spam`
 - `#admin-ops`
 
@@ -71,3 +73,15 @@ Recommended early format:
 - best academy-practice contribution
 
 Do not build a full gamification system yet.
+
+---
+
+## Suggested Roles
+
+- `Member`
+- `Passport`
+- `Founder`
+- `MVP Circle`
+- `Inner Circle`
+
+Use elevated roles for focused access instead of giving everyone raw database visibility.
