@@ -1,3 +1,5 @@
+<div align="center">
+
 # K Mentorship Hub · SET Learning and Build System
 
 **A structured guidance layer for turning interests into learning paths, MVPs, and real next steps**
