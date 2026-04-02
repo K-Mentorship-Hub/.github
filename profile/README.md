@@ -14,6 +14,8 @@
 
 > Designed to reduce confusion for learners, founders, researchers, and early builders who want a practical way to move across science, entrepreneurship, and technology.
 
+</div>
+
 ---
 
 ## What Is K Mentorship Hub?
