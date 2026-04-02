@@ -72,6 +72,14 @@ Hybrid work is welcome:
 
 ---
 
+## Documentation Map
+
+- [`SET Guidebook`](../docs/SET-GUIDEBOOK.md)
+- [`Discord Blueprint`](../docs/DISCORD-BLUEPRINT.md)
+- [`Ecosystem Support`](../docs/ECOSYSTEM-SUPPORT.md)
+
+---
+
 ## Recommended Stack
 
 This hub is intentionally not built around one bloated platform.
@@ -126,6 +134,12 @@ Connected layers:
 - `K-RnD-Lab` for research depth, evidence systems, and investigative logic
 - `Notion` for guidebook, intake, and routing
 - `Discord` for live interaction
+
+---
+
+## Selected Ecosystem Support
+
+- [`FAZENA`](https://www.fazena.org/) — a science-to-venture team working on computational and experimentally grounded therapeutics workflows, including `RNA Hunter`
 
 ---
 
