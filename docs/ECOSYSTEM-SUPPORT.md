@@ -9,40 +9,116 @@ This page is for:
 - experts worth noticing
 - promising startups
 - small and medium businesses doing meaningful work
+- young talents and early builders worth supporting
 - research or venture teams aligned with the wider `SET` line
 
 This is signal support, not a guarantee or formal endorsement.
 
 ---
 
-## Current Highlight
+## Recommended Registry Format
 
-### [`FAZENA`](https://www.fazena.org/)
+Use this page as a simple support registry.
 
-FAZENA is a young science-to-venture team working at the intersection of computational drug discovery and experimental validation.
+### Column logic
 
-Why it matters for this ecosystem:
-
-- they operate across `S+E+T`
-- they connect scientific depth with venture-building logic
-- they are building platforms such as `RNA Hunter`
-- they show how young teams can move from research thinking toward real products and partnerships
-
-Reference points:
-
-- computational and AI-driven therapeutics workflows
-- `RNA Hunter`
-- a silicon-to-cell integration vision for drug discovery
+| Column | Meaning |
+| --- | --- |
+| `Name` | Person, startup, lab, team, or business name |
+| `Type` | `expert`, `startup`, `SMB`, `young_talent`, `ally`, `community` |
+| `Primary Sphere` | Main home: `S`, `E`, or `T` |
+| `Hybrid` | Optional combo: `S+T`, `S+E`, `E+T`, `S+E+T` |
+| `Why It Matters` | Short practical reason this entry is worth highlighting |
+| `Support Mode` | `signal`, `spotlight`, `ally`, `young-talent-support`, `community-bridge` |
+| `Link` | Public website, profile, or repo |
+| `Notes` | Optional short note |
 
 ---
 
-## How We Use This Page
+## Current Support Registry
 
-Over time, this page can grow into a curated list of:
+| Name | Type | Primary Sphere | Hybrid | Why It Matters | Support Mode | Link | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| FAZENA | `startup` | `S` | `S+E+T` | Young science-to-venture team building computational and experimentally grounded therapeutics workflows, including `RNA Hunter` | `signal` | [fazena.org](https://www.fazena.org/) | Good example of a science-first team moving toward real venture structure |
 
-- ecosystem allies
-- startups to watch
+---
+
+## How To Use This Professionally
+
+- use public links only
+- do not publish private contact details
+- if listing an individual expert or young talent, prefer public profiles and opt-in visibility
+- keep the note practical, short, and non-dramatic
+- use this as a support layer, not a noisy directory
+
+---
+
+## Suggested Entry Types
+
+### `expert`
+
+Use for:
+
+- independent specialists
+- mentors
+- researchers
+- operators with strong public signal
+
+### `startup`
+
+Use for:
+
+- early ventures
+- young product teams
 - science-to-venture teams
-- useful experts and partners
+- practical founder projects
 
-The goal is to create useful visibility, not noise.
+### `SMB`
+
+Use for:
+
+- small and medium businesses
+- practical ecosystem players
+- businesses doing meaningful domain work
+
+### `young_talent`
+
+Use for:
+
+- early-career people worth supporting
+- standout learners
+- visible builders with potential
+
+### `ally`
+
+Use for:
+
+- labs
+- communities
+- support organizations
+- useful ecosystem bridges
+
+---
+
+## Best Practical Rule
+
+If you are unsure where to place someone, choose the `Primary Sphere` by the main question they are closest to:
+
+- `S` if their work is science-, domain-, or evidence-facing
+- `E` if their work is venture-, market-, or founder-facing
+- `T` if their work is tool-, code-, AI-, or infrastructure-facing
+
+Then add a `Hybrid` only if it genuinely helps.
+
+---
+
+## Future Growth
+
+Over time, this registry can become:
+
+- an ecosystem support table
+- a startup-and-experts watchlist
+- a “support young talents” layer
+- a bridge between `K Mentorship Hub`, `K-RnD-Lab`, and outside communities
+
+The goal is useful visibility, not clutter.

@@ -139,7 +139,15 @@ Connected layers:
 
 ## Selected Ecosystem Support
 
-- [`FAZENA`](https://www.fazena.org/) — a science-to-venture team working on computational and experimentally grounded therapeutics workflows, including `RNA Hunter`
+- Use the [`Ecosystem Support`](../docs/ECOSYSTEM-SUPPORT.md) registry to highlight:
+  - experts
+  - promising startups
+  - small and medium businesses
+  - young talents worth supporting
+
+Current highlighted signal:
+
+- [`FAZENA`](https://www.fazena.org/) — a science-first young venture working across `S+E+T`, including computational and experimentally grounded therapeutics workflows such as `RNA Hunter`
 
 ---
 
