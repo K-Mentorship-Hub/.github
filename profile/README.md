@@ -77,6 +77,7 @@ Hybrid work is welcome:
 - [`SET Guidebook`](../docs/SET-GUIDEBOOK.md)
 - [`Academy & MVP Map`](../docs/ACADEMY-MVP-MAP.md)
 - [`Passport & Access`](../docs/PASSPORT-AND-ACCESS.md)
+- [`Practice Board`](../docs/PRACTICE-BOARD.md)
 - [`Discord Blueprint`](../docs/DISCORD-BLUEPRINT.md)
 - [`Ecosystem Support`](../docs/ECOSYSTEM-SUPPORT.md)
 
